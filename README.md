@@ -9,3 +9,6 @@ project add CSS elements.
 Credit
 Med-Chicken:
 Photo by Faris Mohammed "https://unsplash.com/photos/cooked-rice-with-fried-chicken-EY9ajqIl9c0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" on Unsplash
+
+Chicken-Salad:
+Photo by Eiliv Aceron https://unsplash.com/photos/vegetable-salad-in-white-ceramic-bowl-mW0LIBBHNdE on Unsplash
