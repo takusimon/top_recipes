@@ -5,3 +5,7 @@ This project will consist of a Home(index) page that links to other recipes.
 This project will highlight my HTML skills primarily my ability to work with
 text elements and to link pages together. At a later date I will revisit the
 project add CSS elements.
+
+Credit
+Med-Chicken:
+Photo by Faris Mohammed "https://unsplash.com/photos/cooked-rice-with-fried-chicken-EY9ajqIl9c0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" on Unsplash
