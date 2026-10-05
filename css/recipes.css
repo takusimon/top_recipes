@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'JetBrains Mono Nerd Font Mono', 'Time New Roman',
+    monospace, sans-serif;
+    background-color: hsl(50.8,57.6%,66.7%);
+}
+
+h1 {
+    font-size:60px;
+    font-weight:bold;
+    color: hsl(2,100%,50%);
+    background-color:hsl(298,5%,1%);
+    text-align: center;
+}
+
+img {
+    margin-left: 550px;
+}
+
+h2 {
+    font-size:30px;
+    text-align:left;
+    margin-left: 20px;
+    margin-top:10px;
+}
+
+p,ul,ol {
+    font-size:15px;
+    margin-left:30px;
+    margin-top:5px;
+    width: 800px;
+}
+
+ul,ol {
+     list-style-position: inside;
+}
+li {
+    margin:10px 0px 10px 0px;
+}
+a {
+    font-size: 25px;
+    display:block;
+    margin-top: 20px;
+    text-align: center;
+    background-color: hsl(298,5%,1%);
+    color: hsl(2,100%,50%);
+}
