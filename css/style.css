@@ -4,6 +4,7 @@
     box-sizing:border-box;
     font-family:'JetBrains Mono Nerd Font Mono', 'Time New Roman',
     monospace, sans-serif;
+    background-color: hsl(50.8,57.6%,66.7%);
 }
 
 h1 {
