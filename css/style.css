@@ -5,3 +5,23 @@
     font-family:'JetBrains Mono Nerd Font Mono', 'Time New Roman',
     monospace, sans-serif;
 }
+
+h1 {
+    font-size:60px;
+    font-weight:bold;
+    color: hsl(2,100%,50%);
+    background-color:hsl(298,5%,1%);
+    text-align: center;
+}
+
+h2 {
+    font-size:30px;
+    text-align:left;
+    margin-left: 20px;
+}
+ul {
+    font-size:15px;
+    list-style-position: inside;
+    margin-left:30px;
+    margin-top:5px;
+}
